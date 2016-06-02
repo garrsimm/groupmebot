@@ -21,7 +21,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = ("WELCOME TO APPLEBEES");
+  botResponse = ("MAKE AMERICA GREAT AGAIN");
 
   options = {
     hostname: 'api.groupme.com',
